@@ -1,0 +1,295 @@
+li{
+    text-decoration: none;
+}
+
+
+
+/*HEADER*/
+.header-index{
+    background-color: #B3C8CF;
+}
+
+.foto-header-index{
+     width: 100px;
+     border-radius: 125px 125px 125px 125px;
+     height: 65px;
+     width: 65px;
+}
+
+.titulo-header-index{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;   
+
+}
+.Informacion{
+    color: black;
+    text-align: justify;
+    border: 2px solid;
+    border-radius: 6px 6px 6px 6px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.Informacion1{
+    color: black;
+    text-align: justify;
+    border: 2px solid;
+    border-radius: 6px 6px 6px 6px;
+    border-top: 0px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.Informacion2{
+    color: black;
+    text-align: justify;
+    border: 2px solid;
+    border-radius: 6px 6px 6px 6px;
+    border-top: 0px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.Informacion3{
+    color: black;
+    text-align: justify;
+    border: 2px solid;
+    border-radius: 6px 6px 6px 6px;
+    border-top: 0px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.Informacion4{
+    color: black;
+    text-align: justify;
+    border: 2px solid;
+    border-radius: 6px 6px 6px 6px;
+    border-top: 0px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+/*MAIN*/
+.main-index{
+    background-color: #BED7DC;
+}
+.nuestrosProductos-mainIndex{
+    font-family: 'Times New Roman', Times, serif;
+}
+.Parrafo1-indexMain{
+    width: 365px;
+	height: 80px;
+	color: #000000;
+	font-family: "Times New Roman";
+    font-weight: 400;
+	font-size: 14px;
+    line-height: 1.3;
+    text-align: justify;
+	
+}
+.foto1-indexMain{
+	width: 329px;
+	height: 325px;
+	padding: 8px 8px 8px 8px;
+	background: #FFFFFF;
+	border-width: 1px;
+	border-radius: 25px 25px 25px 25px;
+}
+.nuestraEmpresa-indexMain{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.PaquetesSuscripcion-indexMain{
+	width: 181px;
+	height: 162px;
+	border-width: 1px;
+    border: 1px solid;
+	border-radius: 55px 55px 55px 55px;
+}
+.Parrafo2-indexMain{
+    width: 150px;
+    font-size: small;
+    font-family: 'Times New Roman', Times, serif;
+}
+/*FOOTER*/
+.footer-index{
+    background-color: #F1EEDC;
+}
+.tituloFooter-indexFooter{
+    font-size: medium;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.Parrafo3-indexFooter{
+    font-size: small;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#Formulario-indexFooter{
+    width: 214px;
+	height: 30px;
+	box-shadow: 0px 4px 4px 4px rgba(0, 0, 0, 0.25);
+	color: #C0C0C0;
+	font-family: 'Times New Roman', Times, serif;
+	font-weight: 400;
+	font-size: 12px;
+	text-align: left;
+   border-top: 0px;
+   border-left: 0px;
+}
+.Label-indexFooter{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+}
+
+.FotoRs-indexFooter{
+	width: 70px;
+	height: 63px;
+	border-radius: 32px 32px 32px 32px;
+}
+
+
+/* PRODUCTOS.CSS */
+	/*HEADER*/
+.header-productos{
+    background-color: #F8F6E3;
+}
+.tituloHeader-productosHeader{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: left;  
+}
+
+/*MAIN*/
+.main-productos{
+    background-color: #97E7E1;
+}
+.tituloH3-productosMain{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#buscador-productosMain{
+    border-radius: 12px 12px 12px 12px;
+    font-size: small;
+    box-shadow: 0px 2px 2px 0px rgba(0, 0, 0, 0.25);
+    border-top:rgba(0, 0, 0, 0.25);
+}
+.tituloH4-productosMain{
+    font-family:'Times New Roman', Times, serif;
+}
+
+.parrafoA-productosMain{
+    font-family: 'Times New Roman', Times, serif;
+    width: 50px;
+}
+
+.imagen-productosMain{
+    border-radius: 12px 12px 12px 12px;
+}
+
+.tituloH5-productosMain{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#precios-productosMain{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: smaller;
+}
+
+/*FOOTER*/
+.footer-productos{
+    background-color: #6AD4DD;
+}
+.fotologo-productosFooter{
+    border-radius: 25px 25px 25px 25px;
+}
+
+.fotoRedes-productosFooter{
+    border-radius: 25px 25px 25px 25px;
+}
+
+
+/* CONTACTO.CSS */
+/*HEADER*/
+.header-contacto{
+    background-color: #607274;
+}
+.tituloH2-contacto{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+/*MAIN*/
+.main-contacto{
+    background-color: #FAEED1;
+}
+.parrafo1-contactoMain{
+    width: 300px;
+	height: 80px;
+	color: #000000;
+	font-family: "Times New Roman";
+    font-weight: 400;
+	font-size: 14px;
+    line-height: 1.3;
+    text-align: justify;
+	
+}
+
+.input-contactoMain{
+    border-radius: 5px 5px 5px 5px;
+}
+.textarea-contactoMain{
+    border-radius: 8px 8px 8px 8px;
+}
+
+.iframe-contactoMain{
+    width: 300px;
+    height: 300px;
+}
+
+/*FOOTER*/
+.footer-contacto{
+    background-color: #DED0B6;
+}
+
+/* ACERCADE.CSS */
+/* HEADER */
+.header-acercade{
+    background-color: #152A38;
+}
+.foto-acercadeHeader{
+    width: 150px;
+    height: 150px;
+    border-radius: 75px 75px 75px 75px;
+}
+/* MAIN */
+.main-acercade{
+    background-color: #29435C;
+}
+.iframeVideo-acercadeMain{
+    height: 275px;
+    width: 475px;
+}
+
+.foto-acercadeMain1{
+        width: 260px;
+        height: 200px;
+        
+    }
+
+.foto-acercadeMain2{
+        width: 160px;
+        height: 130px;
+    }
+
+.parrafo-acercadeMain{
+        text-align: center;
+        font-family: 'Times New Roman', Times, serif;
+        font-size: small;
+        width: 1000px;
+    }
+
+/* METODODEPAGO.CSS */
+
+.li-metodosdepagoMain{
+        font-family: 'Times New Roman', Times, serif;
+    }
+    
+.parrafo-metodosdepagoMain{
+        font-family: 'Times New Roman', Times, serif;
+        text-align: left;
+        font-size: x-small;
+    }
